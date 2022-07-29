@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://raunakkondiboyina.github.io/csb-18kgs4/static/css/main.fe0b0615.chunk.css",
+    "main.js": "https://raunakkondiboyina.github.io/csb-18kgs4/static/js/main.066cac1d.chunk.js",
+    "main.js.map": "https://raunakkondiboyina.github.io/csb-18kgs4/static/js/main.066cac1d.chunk.js.map",
+    "runtime-main.js": "https://raunakkondiboyina.github.io/csb-18kgs4/static/js/runtime-main.b1c1464a.js",
+    "runtime-main.js.map": "https://raunakkondiboyina.github.io/csb-18kgs4/static/js/runtime-main.b1c1464a.js.map",
+    "static/js/2.8611a13c.chunk.js": "https://raunakkondiboyina.github.io/csb-18kgs4/static/js/2.8611a13c.chunk.js",
+    "static/js/2.8611a13c.chunk.js.map": "https://raunakkondiboyina.github.io/csb-18kgs4/static/js/2.8611a13c.chunk.js.map",
+    "index.html": "https://raunakkondiboyina.github.io/csb-18kgs4/index.html",
+    "static/css/main.fe0b0615.chunk.css.map": "https://raunakkondiboyina.github.io/csb-18kgs4/static/css/main.fe0b0615.chunk.css.map",
+    "static/js/2.8611a13c.chunk.js.LICENSE.txt": "https://raunakkondiboyina.github.io/csb-18kgs4/static/js/2.8611a13c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1c1464a.js",
+    "static/js/2.8611a13c.chunk.js",
+    "static/css/main.fe0b0615.chunk.css",
+    "static/js/main.066cac1d.chunk.js"
+  ]
+}
